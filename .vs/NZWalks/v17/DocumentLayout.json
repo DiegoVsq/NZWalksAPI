@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\rog strix\\desktop\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\rog strix\\desktop\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\rog strix\\desktop\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\sqlregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\rog strix\\desktop\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|c:\\users\\rog strix\\desktop\\udemy\\nzwalks\\nzwalks\\nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D085F2B-7D27-4891-B8E1-8D0A6195DA35}|NZWalks.API\\NZWalks.API.csproj|solutionrelative:nzwalks.api\\repositories\\iregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Program.cs",
+              "RelativeToolTip": "NZWalks.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:41:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "NZWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T03:27:15.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "NZWalks.API\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAcwLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:53:45.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\SQLRegionRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAwwD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:52:03.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ToolTip": "C:\\Users\\ROG STRIX\\Desktop\\Udemy\\NZWalks\\NZWalks\\NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "RelativeToolTip": "NZWalks.API\\Repositories\\IRegionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:50:52.548Z",
+              "EditorCaption": ""
             }
           ]
         }
